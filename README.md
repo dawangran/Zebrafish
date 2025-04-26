@@ -44,8 +44,7 @@ The project uses several Python libraries, mainly including:
 - `anndata`
 - `scanpy`
 - `omicverse`
-- `pickle`
-- `os`
+
 
 ## Usage
 You can call the functions in each file according to your specific needs. For example, to generate an `AnnData` object for isoform data, you can call the `generate_Iso_adata` function in `GenerateMatrix.py` as follows:
