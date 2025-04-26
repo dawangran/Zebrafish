@@ -10,7 +10,6 @@ setup(
         'anndata',
         'scanpy',
         'omicverse',
-        'pickle',
-        'os'
+
     ],
 )
