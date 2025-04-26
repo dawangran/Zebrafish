@@ -1,4 +1,4 @@
-# Source Code Directory Explanation for Zebrafish Project
+# Source Code Directory Explanation for Zebrafish Paper
 
 This directory contains the core source code files of the Zebrafish project. Each file is responsible for different functional modules. Below is a detailed introduction to each file.
 
